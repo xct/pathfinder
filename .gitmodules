@@ -1,0 +1,3 @@
+[submodule "challenges"]
+	path = challenges
+	url = git@github.com:xct-r3v3rse/challenges.git
